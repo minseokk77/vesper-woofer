@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlhUTWFacTBJcEhLU1JaQm03VXZYQ2xTVjRLQ1J3YWpUNStNaVdrZllPd2Y3MEpZek9vU1M0aCtCZkROazhXd1JTQkZlSDVLZzluNkpReU1YaW5ZQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcwNTE1CWZpbGU6d29vZmVyLXN5bmNfMS4xLjFfeDY0LXNldHVwLmV4ZQovYjV2YU9WMUhXQnVXK294RGtOMUl5TDkwdTIxZzBzNjVPNFQ2bElLSUIwVXNXblJjZnJJS094ZTZRRldYU20rNC8yL21YMHZmMWtxaTlEek14V3pDdz09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync/releases/download/v1.1.1/woofer-sync_1.1.1_x64-setup.exe"
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.1/woofer-sync_1.1.1_x64-setup.exe"
     }
   }
 }
