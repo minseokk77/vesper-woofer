@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Test auto update to 1.1.2",
-  "pub_date": "2026-07-25T18:18:00Z",
+  "version": "1.1.3",
+  "notes": "v1.1.3: Fix default mute state bug",
+  "pub_date": "2026-07-25T18:22:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlloVExnSVdQUGh6YTQ1SE1CRnMvM3h0VitkVFBJN3dtc2t5cTNwVTdXaXN0ZUlaVExCdzZrQlRvaWZvUzIzbWZBRHZ0SHFNdmxFa0Q0YXpTUEZiTWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcxMTE3CWZpbGU6d29vZmVyLXN5bmNfMS4xLjJfeDY0LXNldHVwLmV4ZQpZc0h0bnJlY0E5KzlmRjFoODFCV3c3Y05OcjlEOE0zaGthVllwd0Z5VjZzOUFZR3VQUHVkNVdYYmRlNTRPaTBqT0xlVkhodUVEaXkvd0lmTEhWWStDdz09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.2/woofer-sync_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmRMQVY4QjlNdGtwT0tCQk9YLytBeWlId01xZjNaczlnWm45YmNQVkV2U2NoNjcyeWVNS1ExZWVXZ0JxRFEyeTg5ZlFSY1kvamp3OUdBeXlZRlVEM0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcxMzcxCWZpbGU6d29vZmVyLXN5bmNfMS4xLjNfeDY0LXNldHVwLmV4ZQpIS29PZTMwbjNBdlRpSGZwbG1sSW4raXdVR2RpNkxGYmlwc1ovR2U3eHhYMThzZmlIclZHdnozcUdXN0t3VkhicXZZRzAvWVNqMTZRbFExb3lzbmZCdz09Cg==",
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.3/woofer-sync_1.1.3_x64-setup.exe"
     }
   }
 }
