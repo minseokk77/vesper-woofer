@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "notes": "v1.1.5: Fix window size padding",
-  "pub_date": "2026-07-25T18:32:00Z",
+  "version": "1.1.6",
+  "notes": "v1.1.6: Add OPRA AutoEQ (10-Band PEQ) support for earphones",
+  "pub_date": "2026-07-25T18:48:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlpSZDdTYzB3L04rTTNkaXlzY0ZHRVorZFM4ckVQU2V6M0EwalBmUkpXeVZwTTRMdmxkclBvNFZmVS9pN2pzZU5UQmdjZXNKYmNXOU5GN1cxdkQvdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyMDE2CWZpbGU6d29vZmVyLXN5bmNfMS4xLjVfeDY0LXNldHVwLmV4ZQpwSzFpaitZeUJySGpMZDNuWkplTEh2blJCYi9UUGxRMmwrMWtKbTFPY3ZQT1FrcjJoZXo5NXNCUmc3WGNkOFo2RjB2VUxZNjlrYVJPcmpLaldhU1dBUT09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.5/woofer-sync_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmFmTUh5TWlEaitqZVJHM011QUR3RTBORzVXSEh1VWxlWFlraTkxR1hueWx4QnFocGM2eXB0M3Q2M3NtSjFKRjFLQjJ4VmYrbk5nckwwSDlmV0x0RGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyOTE5CWZpbGU6d29vZmVyLXN5bmNfMS4xLjZfeDY0LXNldHVwLmV4ZQpTWmJYLzRnYlRRVTUzcSsyYjhyMEoxQW9DZ2ZVZzBldTVKS0pKVlBHaGV6TjRwVUlNZWp5dS91THJreFNUMUVmbHVveCtOSkRXYTJ4NitTYkRjRUdBdz09Cg==",
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.6/woofer-sync_1.1.6_x64-setup.exe"
     }
   }
 }
