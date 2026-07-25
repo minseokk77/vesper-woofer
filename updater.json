@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "v1.1.4: Fix window size and scrolling",
-  "pub_date": "2026-07-25T18:29:00Z",
+  "version": "1.1.5",
+  "notes": "v1.1.5: Fix window size padding",
+  "pub_date": "2026-07-25T18:32:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmNUa0IxTEhENEViakpYN29HaFN3UEx4M3Z0RW1SQ2VONERjZGlmRU44UW9iNHNiOFZBSzN1V0hqMmxJNytuQitKZDY4MHpGMndUcnFRbW40MWc2cGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcxNzcxCWZpbGU6d29vZmVyLXN5bmNfMS4xLjRfeDY0LXNldHVwLmV4ZQo3VWJhUFovNDl2UmtvSGVWRkN3WGR4ci9zSGVUYUlLTS9qdkR2bDBXcld0Y2FDZHZZM2ZkR29yenJwTTNvcktzNEZRNWpRK3V6M3g2S3RpbVJvYk9EZz09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.4/woofer-sync_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlpSZDdTYzB3L04rTTNkaXlzY0ZHRVorZFM4ckVQU2V6M0EwalBmUkpXeVZwTTRMdmxkclBvNFZmVS9pN2pzZU5UQmdjZXNKYmNXOU5GN1cxdkQvdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyMDE2CWZpbGU6d29vZmVyLXN5bmNfMS4xLjVfeDY0LXNldHVwLmV4ZQpwSzFpaitZeUJySGpMZDNuWkplTEh2blJCYi9UUGxRMmwrMWtKbTFPY3ZQT1FrcjJoZXo5NXNCUmc3WGNkOFo2RjB2VUxZNjlrYVJPcmpLaldhU1dBUT09Cg==",
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.5/woofer-sync_1.1.5_x64-setup.exe"
     }
   }
 }
