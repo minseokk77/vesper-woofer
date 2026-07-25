@@ -1,11 +1,11 @@
 {
-  "version": "1.1.10",
-  "notes": "v1.1.10 Update\n- Sound Presets (Movie/Music/Gaming) with device sync support\n- Global Hotkeys (Ctrl+Alt+W)\n- Liquid Glass Toast notifications\n- Compressed main UI Layout",
-  "pub_date": "2026-07-25T21:11:00Z",
+  "version": "v1.3.0",
+  "notes": "Added Window Position Persistence (remembers exactly where you last placed it) and 'Window Position Lock' in Settings.",
+  "pub_date": "2026-07-25T15:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlJDNTk1ZjZ5SXVaVW04QTJIdHdlOFpMK1h3SllzZDNPeDBCRzRwTlJBZG8zT3gyWHVHd3VPWHNQS0VZZWxOKzN6TCtJNW1xTFhqc3hRbTNFT2NPUmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTczODU1CWZpbGU6d29vZmVyLXN5bmNfMS4xLjlfeDY0LXNldHVwLmV4ZQpONW5IRzUram9KVG5xV2R5UHlPeWZvWmFOWm9sVFdSVXNQS3p5ck9MUzdtYmtPSVZiZTVOSTErZ3BPb2lSeG9ic1kxbHZUN1gwYTl0dVpzTTVNSEFEQT09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.10/woofer-sync_1.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmVON1FtbHpuRVVFdUQwZk52L01HMllZSUI1b0tPTncvNlpyN3dNYXhKMUFnaUcydWlET0pMV0ZLd1VBL1ZyR1lhVVNacUtYWTg0YlRCaHhSV3cwUWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTkzMzQ2CWZpbGU6V29vZmVyU3luY18xLjMuMF94NjQtc2V0dXAuZXhlClpheFo2M2VVam94TlplNm5TRXRDNFNjeEFGS2dGQnVHSjc1S2kzOVE5aEZneE1OSkdzeVJxb3puZGpncEZTeVBJbjF0QTdyUUJNMFBCWnJSUXpraUNBPT0K",
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.3.0/WooferSync_1.3.0_x64-setup.exe"
     }
   }
 }
