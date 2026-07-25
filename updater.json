@@ -1,11 +1,11 @@
 {
-  "version": "1.1.9",
-  "notes": "v1.1.9: Replace native dropdowns in Main UI with Apple Liquid Glass CustomSelect",
-  "pub_date": "2026-07-25T19:04:00Z",
+  "version": "1.1.10",
+  "notes": "v1.1.10 Update\n- Sound Presets (Movie/Music/Gaming) with device sync support\n- Global Hotkeys (Ctrl+Alt+W)\n- Liquid Glass Toast notifications\n- Compressed main UI Layout",
+  "pub_date": "2026-07-25T21:11:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlJDNTk1ZjZ5SXVaVW04QTJIdHdlOFpMK1h3SllzZDNPeDBCRzRwTlJBZG8zT3gyWHVHd3VPWHNQS0VZZWxOKzN6TCtJNW1xTFhqc3hRbTNFT2NPUmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTczODU1CWZpbGU6d29vZmVyLXN5bmNfMS4xLjlfeDY0LXNldHVwLmV4ZQpONW5IRzUram9KVG5xV2R5UHlPeWZvWmFOWm9sVFdSVXNQS3p5ck9MUzdtYmtPSVZiZTVOSTErZ3BPb2lSeG9ic1kxbHZUN1gwYTl0dVpzTTVNSEFEQT09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.9/woofer-sync_1.1.9_x64-setup.exe"
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.10/woofer-sync_1.1.10_x64-setup.exe"
     }
   }
 }
