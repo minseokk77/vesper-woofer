@@ -4,7 +4,7 @@
   "pub_date": "2026-07-25T07:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dummy",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmFiMVRES2dmT3VHYVh5dWZZamMzaVBUcXl5UFVOKzljdkNPa3lLUWRZMDBpOXF3MkI2RlVQRk94dGw5ODJiUmVrY203N2JYejNoaXlHRm1nV1M5Ymc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY2NjYzCWZpbGU6d29vZmVyLXN5bmNfMS4xLjBfeDY0LXNldHVwLmV4ZQpVZVd2SnViMmxkcUJoK0Jia3hoRzZlS2p4cVc3K296dDAxd0NKL3UxWU5jLzFqUXAwcSt5RjMxZFFrOU5zUWppbWRXeXFMUFZGcnZsKzRrdTNCOWpCZz09Cg==",
       "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.0/woofer-sync_1.1.0_x64-setup.exe"
     }
   }
