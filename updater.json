@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.0",
-  "notes": "Bug fixes and improvements",
-  "pub_date": "2026-07-25T07:55:00Z",
+  "version": "1.1.1",
+  "notes": "v1.1.1: UI Improvements, Subwoofer Auto Mute, and Clipping Indicators",
+  "pub_date": "2026-07-25T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmFiMVRES2dmT3VHYVh5dWZZamMzaVBUcXl5UFVOKzljdkNPa3lLUWRZMDBpOXF3MkI2RlVQRk94dGw5ODJiUmVrY203N2JYejNoaXlHRm1nV1M5Ymc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY2NjYzCWZpbGU6d29vZmVyLXN5bmNfMS4xLjBfeDY0LXNldHVwLmV4ZQpVZVd2SnViMmxkcUJoK0Jia3hoRzZlS2p4cVc3K296dDAxd0NKL3UxWU5jLzFqUXAwcSt5RjMxZFFrOU5zUWppbWRXeXFMUFZGcnZsKzRrdTNCOWpCZz09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.0/woofer-sync_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlhUTWFacTBJcEhLU1JaQm03VXZYQ2xTVjRLQ1J3YWpUNStNaVdrZllPd2Y3MEpZek9vU1M0aCtCZkROazhXd1JTQkZlSDVLZzluNkpReU1YaW5ZQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcwNTE1CWZpbGU6d29vZmVyLXN5bmNfMS4xLjFfeDY0LXNldHVwLmV4ZQovYjV2YU9WMUhXQnVXK294RGtOMUl5TDkwdTIxZzBzNjVPNFQ2bElLSUIwVXNXblJjZnJJS094ZTZRRldYU20rNC8yL21YMHZmMWtxaTlEek14V3pDdz09Cg==",
+      "url": "https://github.com/minseokk7/woofer-sync/releases/download/v1.1.1/woofer-sync_1.1.1_x64-setup.exe"
     }
   }
 }
