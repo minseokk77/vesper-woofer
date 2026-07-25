@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "v1.1.3: Fix default mute state bug",
-  "pub_date": "2026-07-25T18:22:00Z",
+  "version": "1.1.4",
+  "notes": "v1.1.4: Fix window size and scrolling",
+  "pub_date": "2026-07-25T18:29:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmRMQVY4QjlNdGtwT0tCQk9YLytBeWlId01xZjNaczlnWm45YmNQVkV2U2NoNjcyeWVNS1ExZWVXZ0JxRFEyeTg5ZlFSY1kvamp3OUdBeXlZRlVEM0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcxMzcxCWZpbGU6d29vZmVyLXN5bmNfMS4xLjNfeDY0LXNldHVwLmV4ZQpIS29PZTMwbjNBdlRpSGZwbG1sSW4raXdVR2RpNkxGYmlwc1ovR2U3eHhYMThzZmlIclZHdnozcUdXN0t3VkhicXZZRzAvWVNqMTZRbFExb3lzbmZCdz09Cg==",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.3/woofer-sync_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmNUa0IxTEhENEViakpYN29HaFN3UEx4M3Z0RW1SQ2VONERjZGlmRU44UW9iNHNiOFZBSzN1V0hqMmxJNytuQitKZDY4MHpGMndUcnFRbW40MWc2cGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcxNzcxCWZpbGU6d29vZmVyLXN5bmNfMS4xLjRfeDY0LXNldHVwLmV4ZQo3VWJhUFovNDl2UmtvSGVWRkN3WGR4ci9zSGVUYUlLTS9qdkR2bDBXcld0Y2FDZHZZM2ZkR29yenJwTTNvcktzNEZRNWpRK3V6M3g2S3RpbVJvYk9EZz09Cg==",
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.4/woofer-sync_1.1.4_x64-setup.exe"
     }
   }
 }
