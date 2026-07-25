@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dummy",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.0/woofer-sync_1.1.0_x64-setup.exe.zip"
+      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.1.0/woofer-sync_1.1.0_x64-setup.exe"
     }
   }
 }
