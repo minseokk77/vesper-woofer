@@ -1,11 +1,11 @@
 {
-  "version": "1.3.3",
-  "notes": "Vesper Woofer v1.3.3: remove ASIO mode and use the compact DSP-style active status badge.",
+  "version": "1.3.4",
+  "notes": "Vesper Woofer v1.3.4: refined header and fixed bottom action bar alignment.",
+  "pub_date": "2026-07-26T11:41:47Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.3/Vesper%20Woofer_1.3.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmNyMkZ2OG0vbkptU0NoMkg3dUNsMVdRSTQxOEVZdnV0U2djSjdsa0EycjZOaG5STlJoRjJTZ3AwcVRCejlXZ0NwS2krSkhRdGk0RUZHbWgxZUtXREFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDYyNDUzCWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuM194NjQtc2V0dXAuZXhlCkMyTmJCM2JLbXg5bE5vMnh3NFVzT2RpSjJFQ2U5dUpNZlU0L3FwU3RpbXB2bFAzNEN3dEp4Rk15NUhPSERlOE53VXdTOGZ2RUQzTTBaN0NVSHJXV0N3PT0K"
+      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.4/Vesper%20Woofer_1.3.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmVINU1TUk9HNlIrUGNOdmx2NW43TmlmcVhjM0xCRENlSTI1YVE3d2N1ZktURWRORlc4aDExQldRTHYvM3ZNZk0zQlBWT3QrcWdzQTQ0Um02c3F0SEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDY2MDQ2CWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuNF94NjQtc2V0dXAuZXhlClJ4K0piOWh5Ny9FT1MzdE5PZEcrTTA1UlRQelFKOHZYSkJtR3p0bTNzY2hHSWZja2UrZzVjMFBnZWRXRGIwTGxHKzNHcVdBTk5kRWxPMzBFdzZHakJBPT0K"
     }
-  },
-  "pub_date": "2026-07-26T10:41:03Z"
+  }
 }
