@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "Vesper Woofer v1.3.0",
+  "version": "1.3.1",
+  "notes": "Vesper Woofer v1.3.1",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.0/WooferSync_1.3.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmJxWW9oUWx2TFZRNE1uQ2pNSDBEOGtQTkl4NVMwWGJkYWd4TDY1V1JUT0ZKZ0l2ZlVDRklsL1ZQeDlRdURYK08xT2pKQTNUcmhJamk5UkUvL0d6YlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDU4MjY4CWZpbGU6V29vZmVyU3luY18xLjMuMF94NjQtc2V0dXAuZXhlCkJZMnFDTjZiM1kvK1JyVzlFM1V0YklKSnNxb21iZWxPTU80Vzd1SHkxYU1xK1BCZmk2RFVNai8yL016UkRNdnhnekpDZk5uUmd1ZWJIbGxrYlppYUJnPT0K"
+      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.1/Vesper%20Woofer_1.3.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmVGbzQ5c1JnM2Jqd1FUMGZibmxDcEpwQ25MR0gxNDVkcytUOWZtVFk5NDByNWd2K2dYYzdycW1teFMyWGRheTA4Q2tlNmNRYVJQSnBKVHB0dFN4SkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDU5NTM0CWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuMV94NjQtc2V0dXAuZXhlCmZablBaMlNZWC90Q05TLzRuNHNQQ01JSDNMUDR1SGI0Yy9STkU4RmEvWjV0ejFiMUg5Yy9HTkdCU3NwUlVrOTFjSDZtSmlkUy9JaFMyd0c3M3piZENnPT0K"
     }
   },
-  "pub_date": "2026-07-26T09:31:44Z"
+  "pub_date": "2026-07-26T09:52:24Z"
 }
