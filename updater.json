@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
-  "notes": "Vesper Woofer v1.3.2: Vesper | Woofer header and OPRA-only open-source notice.",
+  "version": "1.3.3",
+  "notes": "Vesper Woofer v1.3.3: remove ASIO mode and use the compact DSP-style active status badge.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.2/Vesper.Woofer_1.3.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlRIVmVhTmVzV09ncVhYUTFNUnlIRkdod3FGZ0JEbkJOM2s3aFludThaUzl1NXBpOUZ4NmsrNFpja2dxNFhNVHJ1U1dOZDhOTVRJeEQxZExWZzYzaWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDYwNTgzCWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuMl94NjQtc2V0dXAuZXhlCm8yeDdoZnNkUEd5TnNwZVNPdlpyTEtKU0RVQlR4eVpnZmtqMTBpbC92Vk4zVElvSXlrdVpFOUpLVlFWb00rMmNTQmVLRW0rT2p6T0pmVFlkOWM4TERnPT0K"
+      "url": "https://github.com/MINSEOKK77/vesper-woofer/releases/download/v1.3.3/Vesper%20Woofer_1.3.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmNyMkZ2OG0vbkptU0NoMkg3dUNsMVdRSTQxOEVZdnV0U2djSjdsa0EycjZOaG5STlJoRjJTZ3AwcVRCejlXZ0NwS2krSkhRdGk0RUZHbWgxZUtXREFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDYyNDUzCWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuM194NjQtc2V0dXAuZXhlCkMyTmJCM2JLbXg5bE5vMnh3NFVzT2RpSjJFQ2U5dUpNZlU0L3FwU3RpbXB2bFAzNEN3dEp4Rk15NUhPSERlOE53VXdTOGZ2RUQzTTBaN0NVSHJXV0N3PT0K"
     }
   },
-  "pub_date": "2026-07-26T10:09:51Z"
+  "pub_date": "2026-07-26T10:41:03Z"
 }
