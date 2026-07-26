@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.0",
-  "notes": "Added Window Position Persistence (remembers exactly where you last placed it) and 'Window Position Lock' in Settings.",
-  "pub_date": "2026-07-25T15:30:00Z",
+  "version": "0.0.1",
+  "notes": "Vesper DSP v0.0.1 (New Infrastructure)",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmVON1FtbHpuRVVFdUQwZk52L01HMllZSUI1b0tPTncvNlpyN3dNYXhKMUFnaUcydWlET0pMV0ZLd1VBL1ZyR1lhVVNacUtYWTg0YlRCaHhSV3cwUWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTkzMzQ2CWZpbGU6V29vZmVyU3luY18xLjMuMF94NjQtc2V0dXAuZXhlClpheFo2M2VVam94TlplNm5TRXRDNFNjeEFGS2dGQnVHSjc1S2kzOVE5aEZneE1OSkdzeVJxb3puZGpncEZTeVBJbjF0QTdyUUJNMFBCWnJSUXpraUNBPT0K",
-      "url": "https://github.com/minseokk7/woofer-sync-releases/releases/download/v1.3.0/WooferSync_1.3.0_x64-setup.exe"
+      "url": "https://github.com/MINSEOKK77/vesper-dsp/releases/download/v0.0.1/VesperDSP_0.0.1_x64-setup.exe",
+      "signature": null
     }
-  }
+  },
+  "pub_date": "2026-07-26T08:32:06Z"
 }
