@@ -18,3 +18,11 @@ Vesper Woofer의 최신 설치 파일은 우측의 **[Releases](https://github.c
 - `VesperWoofer_x.x.x_x64-setup.exe` 등의 바이너리를 다운로드 후 설치해 주세요.
 
 *(참고: 이 저장소는 배포 및 자동 업데이트 서빙을 위한 공개 저장소입니다.)*
+
+## 📜 오픈소스 고지 (Open Source Credits)
+
+이 소프트웨어는 전 세계 헤드폰 및 이어폰의 주파수 응답 데이터를 수집하고 이퀄라이제이션(EQ) 프로파일을 제공하는 훌륭한 오픈소스 프로젝트인 **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**의 데이터를 연동/참조하여 사용하고 있습니다.
+
+- **AutoEq** is licensed under the MIT License.
+- Copyright (c) 2018 Jaakko Pasanen
+- 원본 프로젝트 저장소: https://github.com/jaakkopasanen/AutoEq
