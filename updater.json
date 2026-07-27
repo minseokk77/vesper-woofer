@@ -1,11 +1,11 @@
 {
-  "version": "1.3.6",
-  "notes": "Vesper Woofer v1.3.6: preserves the checked finish-page launch; UAC-off installs use Windows ShellExecute after Finish.",
-  "pub_date": "2026-07-26T23:56:40Z",
+  "version": "1.3.7",
+  "notes": "Vesper Woofer v1.3.7: Added Third-party Open Source Licenses view and fixed background autostart behavior.",
+  "pub_date": "2026-07-27T11:28:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/minseokk77/vesper-woofer/releases/download/v1.3.6/Vesper.Woofer_1.3.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dlZaeGhESVFieFZadDQ5dkxidzJFYm54bzg5dU9xVWVwdUhKZmZQbll4dnRJQzJYa2FBd2t1MHVzMUNnOE9sTlZEZ0FTNnRZUk9aTklXSEJ5b2x1M0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTEwMTg4CWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuNl94NjQtc2V0dXAuZXhlCjhJaGg0N3VML2NBdkdPa0FHMSs3Z1phbmsvWHlZUEpxQWxTdlk3c1Z3UE5yTUIvWEQ0a3ViSUdQd2lpOXlvVFA1bTIxaEUzRHE1L2hINGpPTncwMkRnPT0K"
+      "url": "https://github.com/minseokk77/vesper-woofer/releases/download/v1.3.7/Vesper.Woofer_1.3.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWFKc3kyQTZ5dmNlcGxtRmRSSTJXWG9aLytPeTB6cmtKcE1mMkNUeVU1amlQTHFYWEl2YzFoRG80cTBYbnZvUDd3MVdQeW9Ub3Y1NGpJcFYxZXhDRGxpOCt3eWJIbWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTUxNjg2CWZpbGU6VmVzcGVyIFdvb2Zlcl8xLjMuN194NjQtc2V0dXAuZXhlCktBOWVNU3BIU0Y1eG53L1pyMjNzeWRZM01VM0FLTy9hQ3J2SzhzQlIrUEdJQUM3aWlYUWtzV1NjcmFNV1htVkRhckFpdWhBbVpVazZnWGxYc2l2WUFRPT0K"
     }
   }
 }
